@@ -1,3 +1,4 @@
 first file
 second row added
 third row added
+fourth row added
